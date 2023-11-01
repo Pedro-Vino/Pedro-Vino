@@ -1,4 +1,4 @@
-## Sou um estudante de Web Designer na [FIEBtech😵](https://www.fieb.edu.br)
+## Sou um estudante de Web Designer na [FIEBtech🫠](https://www.fieb.edu.br)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
