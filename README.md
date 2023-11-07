@@ -4,7 +4,7 @@
   Links:
   <ul>
     <li>👨‍🎓 <a href="https://www.fieb.edu.br">FIEBtech</a></li>
-    <li></li>
+    <li>🔗 <a herf="#">Linkedin</li>
   </ul>
   
 </div>
@@ -15,5 +15,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>&nbsp;
 </div>
-
-
