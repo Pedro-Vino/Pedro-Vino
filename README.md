@@ -4,7 +4,6 @@
   Links:
   <ul>
     <li>👨‍🎓 <a href="https://www.fieb.edu.br">FIEBtech</a></li>
-    <li>🔗 <a herf="#">Linkedin</li>
   </ul>
   
 </div>
