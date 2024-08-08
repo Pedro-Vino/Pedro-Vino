@@ -1,4 +1,4 @@
-<h1>Sou um estudante de Web Designer na FIEBtech</h1>
+<h1>Sou um estudante de Web Design na FIEBtech</h1>
 
 <div>
   Links:
