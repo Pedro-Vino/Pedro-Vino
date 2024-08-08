@@ -3,8 +3,8 @@
 <div>
   Links:
   <ul>
-    <li>👨‍🎓 <a href="https://www.fieb.edu.br">FIEBtech</a></li>
-    <li>⚙️💻 <a href="https://sportagora.onrender.com/">Tcc 2024 em Andamento</a></li>
+    <li>👨‍🎓 <a href="https://www.fieb.edu.br" target="_blank">FIEBtech</a></li>
+    <li>⚙️💻 <a href="https://sportagora.onrender.com/" target="_blank">Tcc 2024 em Andamento</a></li>
   </ul>
   
 </div>
