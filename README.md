@@ -1,9 +1,9 @@
-<h1>Sou um estudante de Web Design na FIEBtech</h1>
+<h1>Sou um estudante de Web Design na FIEB</h1>
 
 <div>
   Links:
   <ul>
-    <li>👨‍🎓 <a href="https://www.fieb.edu.br" target="_blank">FIEB</a></li>
+    <li>👨‍🎓 <a href="https://www.fieb.edu.br" target="_blank">FIEBtech</a></li>
      <li>📃 <a href="https://drive.google.com/file/d/1YB42RRDU91oBjI6WFMWUsU6kInA48rRn/view?usp=drive_link">Currículo<a/></li>
     <li>⚙️💻 <a href="https://sportagora.onrender.com/" target="_blank">Tcc 2024 em Andamento</a></li>
   </ul>
