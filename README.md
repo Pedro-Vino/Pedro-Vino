@@ -5,7 +5,7 @@
   <ul>
     <li>👨‍🎓 <a href="https://www.fieb.edu.br" target="_blank">FIEBtech</a></li>
      <li>📃 <a href="https://drive.google.com/file/d/1YB42RRDU91oBjI6WFMWUsU6kInA48rRn/view?usp=drive_link">Currículo<a/></li>
-    <li>⚙️💻 <a href="https://sportagora.onrender.com/" target="_blank">Tcc 2024 em Andamento</a></li>
+    <li>⚙️💻 <a href="[https://sportagora.onrender.com](https://github.com/SportAgora/SportAgoraWebSite)" target="_blank">Tcc 2024 em Andamento</a></li>
   </ul>
   
 </div>
