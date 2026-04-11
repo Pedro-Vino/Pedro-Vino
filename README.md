@@ -9,9 +9,7 @@
 </div>
 
 <br>
-<hr>
 
-### Sobre mim
 Sou um desenvolvedor dedicado a entender a fundo a arquitetura de sistemas e a integração de dados. Atualmente, busco aplicar conceitos de segurança e regras de negócio em aplicações reais.
 
 * **Foco atual:** Aperfeiçoamento em Node.js e ecossistema Express.
@@ -21,17 +19,6 @@ Sou um desenvolvedor dedicado a entender a fundo a arquitetura de sistemas e a i
 ---
 
 ### Tecnologias e Ferramentas
-
-**Back-end & Database**
-> Node.js, Express, MySQL, Bcrypt, Express-session, Express-validator.
-
-**Front-end**
-> JavaScript (ES6+), HTML5, CSS3, EJS.
-
-**Linguagens de Base**
-> C.
-
-<br>
 
 <div align="left">
   <a href="https://skillicons.dev">
