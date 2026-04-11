@@ -35,7 +35,7 @@ Sou um desenvolvedor dedicado a entender a fundo a arquitetura de sistemas e a i
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,js,html,css,,c" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,js,html,css,c" />
   </a>
 </div>
 
