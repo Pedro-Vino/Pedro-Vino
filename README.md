@@ -46,8 +46,8 @@ Sou um desenvolvedor focado em construir aplicações web completas, atuando des
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="150" alt="Estatísticas do Pedro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Vino&show_icons=true&theme=radical" height="150" alt="Estatísticas do Pedro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Vino&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
 </p>
 
 ---
