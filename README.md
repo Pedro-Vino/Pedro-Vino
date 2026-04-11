@@ -4,7 +4,6 @@
 
   <br>
   <p><strong>Desenvolvedor Full Stack em formação | Estudante de Ciência da Computação</strong></p>
-  <p>📍 Brasil | Focado em soluções completas, da arquitetura à interface</p>
 
 </div>
 
