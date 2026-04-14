@@ -27,23 +27,8 @@ Sou um desenvolvedor dedicado a entender a fundo a arquitetura de sistemas e a i
 
 ---
 
-### Estatísticas de Atividade
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Vino&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?Pedro-Vino=anuraghazra&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Vino&layout=compact&theme=dark&locale=pt-br" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
-
 ### Contato
 Para parcerias ou oportunidades profissionais, sinta-se à vontade para entrar em contato:
-
-* **LinkedIn:** [linkedin.com/in/pedro-vinicius-nascimento](https://www.linkedin.com/in/pedro-vinicius-nascimento)
-* **E-mail:** pedro.vinisillva@gmail.com
-
-<br>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-vinicius-nascimento">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
