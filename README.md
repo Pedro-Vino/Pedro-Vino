@@ -52,3 +52,9 @@ Para parcerias ou oportunidades profissionais, sinta-se à vontade para entrar e
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-Vino/Pedro-Vino/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-vino/Pedro-Vino/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Pedro-Vino/Pedro-Vino/output/snake.svg">
+</picture>
